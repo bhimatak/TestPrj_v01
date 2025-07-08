@@ -1,0 +1,4 @@
+RunMyTests 1 0
+test_add01 1 0.0751868
+test_add02 4 0.0027805
+---
